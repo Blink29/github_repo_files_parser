@@ -1,1 +1,1 @@
-from .github_repo_files_parser import GitHubRepoFilesParser
+from github_repo_files_parser import GitHubRepoFilesParser

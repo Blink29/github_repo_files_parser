@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="github_repo_files_parser",
-    version="1.0.0",
+    version="1.0.1",
     description="Extract file paths from GitHub repositories categorized by extension",
     long_description=readme,
     long_description_content_type="text/markdown",
