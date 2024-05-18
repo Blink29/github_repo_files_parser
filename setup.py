@@ -12,9 +12,9 @@ setup(
     author="Paurush Kumar",
     packages=["github_repo_files_parser"],
     zip_safe=False,
-    # project_urls={
-    #     "Documentation": "https://pypi.org/project/webscapy/",
-    #     "Source": "https://pypi.org/project/webscapy/",
-    # },
+    project_urls={
+        "Documentation": "https://pypi.org/project/github_repo_files_parser/",
+        "Source": "https://pypi.org/project/github_repo_files_parser/",
+    },
     install_requires=[ ]
 )

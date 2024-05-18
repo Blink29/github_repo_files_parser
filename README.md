@@ -16,7 +16,7 @@ How does the parser work?
 </ul>
 
 <h2>Installation</h2>
-<code>npm install github-repo-parser</code>
+<code>pip install github-repo-files-parser==1.0.0</code>
 
 
 <h2>Illustration</h2>
