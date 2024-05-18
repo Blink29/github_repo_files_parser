@@ -1,0 +1,20 @@
+{
+  "py": [
+    "https://github.com/Blink29/github_repo_files_parser/blob/main/index.py",
+    "https://github.com/Blink29/github_repo_files_parser/blob/main/setup.py",
+    "https://github.com/Blink29/github_repo_files_parser/blob/main/github_repo_files_parser/__init__.py",
+    "https://github.com/Blink29/github_repo_files_parser/blob/main/github_repo_files_parser/github_repo_files_parser.py"
+  ],
+  "md": [
+    "https://github.com/Blink29/github_repo_files_parser/blob/main/README.md"
+  ],
+  "gitignore": [
+    "https://github.com/Blink29/github_repo_files_parser/blob/main/.gitignore"
+  ],
+  "directories": [
+    "https://github.com/Blink29/github_repo_files_parser/tree/main/github_repo_files_parser"
+  ],
+  "cfg": [
+    "https://github.com/Blink29/github_repo_files_parser/blob/main/github_repo_files_parser/setup.cfg"
+  ]
+}

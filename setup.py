@@ -16,5 +16,5 @@ setup(
     #     "Documentation": "https://pypi.org/project/webscapy/",
     #     "Source": "https://pypi.org/project/webscapy/",
     # },
-    install_requires=[  ]
+    install_requires=[ ]
 )
